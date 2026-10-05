@@ -1,0 +1,6 @@
+{
+  "name": "Repaso Lengua Española y Armenio",
+  "description": "Интерактивный тренажер по всем темам Lengua Española с переводом на армянский для школьного экзамена (110 вопросов).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
